@@ -11,7 +11,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
@@ -29,18 +28,22 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-## Desktop
+### Desktop
+![p1](https://user-images.githubusercontent.com/99991521/182826160-93393382-70f5-4059-8e27-0e49a56590d9.png)
 
+### Desktop Thank you
+![p2](https://user-images.githubusercontent.com/99991521/182826189-f6cd7235-aadd-495e-aab1-ea09235fd25e.png)
 
-## Mobile
+### Mobile
+![p3](https://user-images.githubusercontent.com/99991521/182826406-723d6a7d-d756-49e3-94bb-f9a38d678616.PNG)
 
-
-## Active
+### Mobile Thank you
+![p4](https://user-images.githubusercontent.com/99991521/182826427-db98c91b-3db8-4061-8d40-0fc36336983f.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here](https://github.com/mihir2226/interactive-rating-component)
+- Live Site URL: [Click here](https://mihir2226.github.io/interactive-rating-component/)
 
 ## My process
 
@@ -54,19 +57,13 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+i learned about how javascript eventhandler works. and how javascript makes website interactive.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Google Fonts](https://fonts.google.com) - This site provided me best fonts and icons for my project.
+- [MDN Docs](https://developer.mozilla.org/en-US/) - this is amazing site which helped me in learning  some of the new concepts.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@mihir2226](https://www.frontendmentor.io/profile/@mihir2226)
+- Twitter - [@nmihir18](https://www.twitter.com/nmihir18)
